@@ -13,4 +13,4 @@ You can interact with the live Power BI report below.
 """)
 
 # Embed the Power BI dashboard using an iframe
-st.components.v1.iframe(embed_url, width=1200, height=1000)
+st.components.v1.iframe(embed_url, width=1000, height=800)
